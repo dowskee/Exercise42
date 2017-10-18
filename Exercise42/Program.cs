@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exercise42
 {
-    class Program
+    class Program:Point
     {
+
         static void Main(string[] args)
         {
             List<Point> Entry = new List<Point>();
@@ -23,6 +24,12 @@ namespace Exercise42
             Entry.Add(temp);
 
             Console.WriteLine($"You have created a point object ({ex}, {why})");
+
+            temp.CalculateDistance();
+
+           
+
         }
+
     }
 }
