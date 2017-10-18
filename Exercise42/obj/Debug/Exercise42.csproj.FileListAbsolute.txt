@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\Exercise42\Exercise42\bin\Debug\Exercise42.exe.config
+C:\Users\sharon\source\repos\Exercise42\Exercise42\bin\Debug\Exercise42.exe
+C:\Users\sharon\source\repos\Exercise42\Exercise42\bin\Debug\Exercise42.pdb
+C:\Users\sharon\source\repos\Exercise42\Exercise42\obj\Debug\Exercise42.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\Exercise42\Exercise42\obj\Debug\Exercise42.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\Exercise42\Exercise42\obj\Debug\Exercise42.exe
+C:\Users\sharon\source\repos\Exercise42\Exercise42\obj\Debug\Exercise42.pdb
